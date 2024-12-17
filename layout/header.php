@@ -10,4 +10,13 @@
 <body>
     
     <!-- HEADER -->
-    <header></header>
+    <header>
+        <img src="/User-Management-Web-App/images/logo.webp" alt="logo">
+        <nav>
+            <a href="">Accu</a>
+            <a href=""></a>
+            <a href=""></a>
+            <a href=""></a>
+            <a href=""></a>
+        </nav>
+    </header>
